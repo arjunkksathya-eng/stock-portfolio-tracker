@@ -1,6 +1,4 @@
-/**
- * Stock.java
- * The data model: represents ONE stock position in the portfolio.
+/*represents one stock position in the portfolio.
  */
 public class Stock {
     private String ticker;
